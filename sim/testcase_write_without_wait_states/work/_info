@@ -1,0 +1,82 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/DATA/proj/cpu_training/ex3_apb/apb_protocol/sim/testcase_write_without_wait_states
+T_opt
+!s110 1653667313
+V0E2b1]JfK@`o[AAg6?aB^0
+04 38 4 work tb_apb_protocol_write_with_wait_states fast 0
+=1-382c4a27681e-6290f5f1-160-3634
+o-quiet -auto_acc_if_foreign -work work +acc
+Z1 tCvgOpt 0
+n@_opt
+OL;O;10.7c;67
+vapb_master
+Z2 !s110 1653667310
+!i10b 1
+!s100 WnH>aJLa^GWQH^Ie0<RBo2
+IL?A]EYA`<V?mgY6_UiBeg0
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1653688887
+8../../rtl/apb_master.v
+F../../rtl/apb_master.v
+L0 9
+Z4 OL;L;10.7c;67
+r1
+!s85 0
+31
+Z5 !s108 1653667310.000000
+Z6 !s107 ../../rtl/apb_master.v|../../tb/tb_apb_protocol_write_with_wait_states.v|
+Z7 !s90 ../../tb/tb_apb_protocol_write_with_wait_states.v|../../rtl/apb_master.v|
+!i113 0
+Z8 o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R1
+vtb_apb_protocol_write_with_wait_states
+R2
+!i10b 1
+!s100 27mQ2:6Zb0Z9]B:C4Am^O3
+IC1IUZR2PY_QWH4F^D>1=C0
+R3
+R0
+w1653688904
+Z9 8../../tb/tb_apb_protocol_write_with_wait_states.v
+Z10 F../../tb/tb_apb_protocol_write_with_wait_states.v
+Z11 L0 10
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 0
+R8
+R1
+vtb_apb_protocol_write_without_wait_states
+!s110 1653662304
+!i10b 1
+!s100 FH<@f^1e7IbR1]6[e78I43
+IZn]n4M?S2BaW1hkkCi<eB1
+R3
+R0
+w1653683835
+R9
+R10
+R11
+R4
+r1
+!s85 0
+31
+!s108 1653662303.000000
+R6
+R7
+!i113 0
+R8
+R1

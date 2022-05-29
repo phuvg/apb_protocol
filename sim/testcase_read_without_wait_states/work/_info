@@ -1,0 +1,61 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/DATA/proj/cpu_training/ex3_apb/apb_protocol/sim/testcase_read_without_wait_states
+T_opt
+!s110 1653827486
+V08jPiJ;^TPZ_2>^U^T9;m3
+04 40 4 work tb_apb_protocol_read_without_wait_states fast 0
+=1-382c4a27681e-6293679e-258-ca4
+o-quiet -auto_acc_if_foreign -work work +acc
+Z1 tCvgOpt 0
+n@_opt
+OL;O;10.7c;67
+vapb_master
+Z2 !s110 1653827482
+!i10b 1
+!s100 CNh<JHN64S7W7ceNmW=z:0
+I0e;UL00Z1;Sgmz9leFF[R2
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1653848703
+8../../rtl/apb_master.v
+F../../rtl/apb_master.v
+L0 9
+Z4 OL;L;10.7c;67
+r1
+!s85 0
+31
+Z5 !s108 1653827482.000000
+Z6 !s107 ../../rtl/apb_master.v|../../tb/tb_apb_protocol_read_without_wait_states.v|
+Z7 !s90 ../../tb/tb_apb_protocol_read_without_wait_states.v|../../rtl/apb_master.v|
+!i113 0
+Z8 o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R1
+vtb_apb_protocol_read_without_wait_states
+R2
+!i10b 1
+!s100 VaozT>8>W90akBU262Ye=0
+I6EdVRdXKG@mOa>2MnX^5P2
+R3
+R0
+w1653849056
+8../../tb/tb_apb_protocol_read_without_wait_states.v
+F../../tb/tb_apb_protocol_read_without_wait_states.v
+L0 10
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 0
+R8
+R1
